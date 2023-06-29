@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/potfolio/static/css/main.b275b7fc.css",
+    "main.js": "/potfolio/static/js/main.76407576.js",
+    "static/js/787.1ed0c42c.chunk.js": "/potfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/packags.png": "/potfolio/static/media/packags.43ca4c07dbb15c12d3dc.png",
+    "static/media/homemehra.png": "/potfolio/static/media/homemehra.08817705336b1ea563c8.png",
+    "static/media/home.png": "/potfolio/static/media/home.bea43bebeab28eca98a8.png",
+    "static/media/update.png": "/potfolio/static/media/update.9bf89a28bc59642fecc9.png",
+    "static/media/book_form.png": "/potfolio/static/media/book_form.1201edd9d556b414df32.png",
+    "static/media/display.png": "/potfolio/static/media/display.576b3618410d94e17630.png",
+    "static/media/about.JPG": "/potfolio/static/media/about.807850f2d631e79e847b.JPG",
+    "static/media/pdf.pdf": "/potfolio/static/media/pdf.3b30666b471e5c594f5e.pdf",
+    "static/media/booking.JPG": "/potfolio/static/media/booking.d16a9cd4ee8276ce774c.JPG",
+    "static/media/PBG.jpg": "/potfolio/static/media/PBG.9f2f53a413cc452aa9a9.jpg",
+    "static/media/bg.jpg": "/potfolio/static/media/bg.f2093ace46766212aaa5.jpg",
+    "static/media/anjali.jpeg": "/potfolio/static/media/anjali.87af652a770b8684dd2e.jpeg",
+    "static/media/logo.svg": "/potfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/potfolio/index.html",
+    "main.b275b7fc.css.map": "/potfolio/static/css/main.b275b7fc.css.map",
+    "main.76407576.js.map": "/potfolio/static/js/main.76407576.js.map",
+    "787.1ed0c42c.chunk.js.map": "/potfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b275b7fc.css",
+    "static/js/main.76407576.js"
+  ]
+}
